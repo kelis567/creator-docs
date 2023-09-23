@@ -72,7 +72,7 @@ When you're comfortable navigating the viewport with the camera, you can begin b
 
 ### Inserting Parts
 
-A `Class.Part` is Roblox's primary building block. You can [move](#moving-parts), [resize](#scaling-parts), and [rotate](#rotating-parts) parts, as well as customize their appearance, such as their [color and material](#customizing-colors-and-materials). There are five different part types that you can insert through the **Parts** section of the [Home](../../studio/home-tab.md) or [Model](../../studio/model-tab.md) tabs:
+A `Class.Part` is Roblox's primary building block. You can [move](#moving-parts), [resize](#scaling-parts), and [rotatep](#rotating-parts) parts, as well as customize their appearance, such as their [color and material](#customizing-colors-and-materials). There are five different part types that you can insert through the **Parts** section of the [Home](../../studio/home-tab.md) or [Model](../../studio/model-tab.md) tabs:
 
 <table>
 <thead>
